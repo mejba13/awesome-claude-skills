@@ -31,8 +31,5 @@ logs/
 *.tmp
 *.temp
 
-# Claude Code
-/.claude
-CLAUDE.md
 *.md
 !README.md
